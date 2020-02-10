@@ -2,3 +2,4 @@ predict-west-nile-virus/
 instructions.md
 /code/01-eda.ipynb
 /dev/*
+code/.ipynb_checkpoints/
